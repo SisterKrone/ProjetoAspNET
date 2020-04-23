@@ -20536,13 +20536,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Usuarios\\Edit.cshtml",
+      "TargetPath": "Views\\Usuarios\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Usuarios\\Delete.cshtml",
+      "TargetPath": "Views\\Usuarios\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Usuarios\\Details.cshtml",
+      "TargetPath": "Views\\Usuarios\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Usuarios\\Index.cshtml",
+      "TargetPath": "Views\\Usuarios\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoCovid\\COVID19\\Views\\Usuarios\\Create.cshtml",
+      "TargetPath": "Views\\Usuarios\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
