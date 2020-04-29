@@ -26,7 +26,7 @@ namespace COVID19.Controllers
         }
 
         // GET: Usuarios/Details/5
-        public async Task<IActionResult> Details(string id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
@@ -34,7 +34,7 @@ namespace COVID19.Controllers
             }
 
             var usuarios = await _context.Usuarios
-                .FirstOrDefaultAsync(m => m.Nome == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (usuarios == null)
             {
                 return NotFound();
@@ -54,7 +54,7 @@ namespace COVID19.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Nome,Idade,Sexo,TipoSanguineo,Estado,Cidade")] Usuarios usuarios)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Idade,Sexo,TipoSanguineo,Estado,Cidade")] Usuarios usuarios)
         {
             if (ModelState.IsValid)
             {
@@ -66,7 +66,7 @@ namespace COVID19.Controllers
         }
 
         // GET: Usuarios/Edit/5
-        public async Task<IActionResult> Edit(string id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
@@ -86,9 +86,9 @@ namespace COVID19.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Nome,Idade,Sexo,TipoSanguineo,Estado,Cidade")] Usuarios usuarios)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Idade,Sexo,TipoSanguineo,Estado,Cidade")] Usuarios usuarios)
         {
-            if (id != usuarios.Nome)
+            if (id != usuarios.Id)
             {
                 return NotFound();
             }
@@ -102,7 +102,7 @@ namespace COVID19.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!UsuariosExists(usuarios.Nome))
+                    if (!UsuariosExists(usuarios.Id))
                     {
                         return NotFound();
                     }
@@ -117,7 +117,7 @@ namespace COVID19.Controllers
         }
 
         // GET: Usuarios/Delete/5
-        public async Task<IActionResult> Delete(string id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
@@ -125,7 +125,7 @@ namespace COVID19.Controllers
             }
 
             var usuarios = await _context.Usuarios
-                .FirstOrDefaultAsync(m => m.Nome == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (usuarios == null)
             {
                 return NotFound();
@@ -137,7 +137,7 @@ namespace COVID19.Controllers
         // POST: Usuarios/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var usuarios = await _context.Usuarios.FindAsync(id);
             _context.Usuarios.Remove(usuarios);
@@ -145,9 +145,9 @@ namespace COVID19.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool UsuariosExists(string id)
+        private bool UsuariosExists(int id)
         {
-            return _context.Usuarios.Any(e => e.Nome == id);
+            return _context.Usuarios.Any(e => e.Id == id);
         }
     }
 }
