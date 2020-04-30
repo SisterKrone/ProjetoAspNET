@@ -8,7 +8,7 @@ using MvcMovie.Data;
 namespace COVID19.Migrations
 {
     [DbContext(typeof(MvcMovieContext))]
-    [Migration("20200423020846_InitialCreate")]
+    [Migration("20200429230029_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -19,8 +19,9 @@ namespace COVID19.Migrations
 
             modelBuilder.Entity("COVID19.Models.Usuarios", b =>
                 {
-                    b.Property<string>("Nome")
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Cidade")
                         .HasColumnType("TEXT");
@@ -31,13 +32,16 @@ namespace COVID19.Migrations
                     b.Property<int>("Idade")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Nome")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Sexo")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("TipoSanguineo")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("Nome");
+                    b.HasKey("Id");
 
                     b.ToTable("Usuarios");
                 });

@@ -10,7 +10,9 @@ namespace COVID19.Migrations
                 name: "Usuarios",
                 columns: table => new
                 {
-                    Nome = table.Column<string>(nullable: false),
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Nome = table.Column<string>(nullable: true),
                     Idade = table.Column<int>(nullable: false),
                     Sexo = table.Column<string>(nullable: true),
                     TipoSanguineo = table.Column<string>(nullable: true),
@@ -19,7 +21,7 @@ namespace COVID19.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Usuarios", x => x.Nome);
+                    table.PrimaryKey("PK_Usuarios", x => x.Id);
                 });
         }
 

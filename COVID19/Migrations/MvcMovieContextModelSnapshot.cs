@@ -17,8 +17,9 @@ namespace COVID19.Migrations
 
             modelBuilder.Entity("COVID19.Models.Usuarios", b =>
                 {
-                    b.Property<string>("Nome")
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Cidade")
                         .HasColumnType("TEXT");
@@ -29,13 +30,16 @@ namespace COVID19.Migrations
                     b.Property<int>("Idade")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Nome")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Sexo")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("TipoSanguineo")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("Nome");
+                    b.HasKey("Id");
 
                     b.ToTable("Usuarios");
                 });
