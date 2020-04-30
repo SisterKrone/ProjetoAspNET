@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using COVID19.Models;
+using APIConsume.Models;
+using Newtonsoft.Json;
+using System.Net.Http;
 
 namespace COVID19.Controllers
 {
@@ -18,9 +21,23 @@ namespace COVID19.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        // public IActionResult Index()
+        // {
+        //     return View();
+        // }
+
+        public async Task<IActionResult> Index()
         {
-            return View();
+            List<Cases> Cases = new List<Cases>();
+            using (var httpClient = new HttpClient())
+            {
+                using (var response = await httpClient.GetAsync("https://api.covid19api.com/live/country/brazil/status/confirmed"))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    Cases = JsonConvert.DeserializeObject<List<Cases>>(apiResponse);
+                }
+            }
+            return View(Cases); 
         }
 
         public IActionResult Privacy()

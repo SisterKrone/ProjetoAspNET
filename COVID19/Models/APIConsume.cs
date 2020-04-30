@@ -5,7 +5,7 @@ using System.Threading.Tasks;
   
 namespace APIConsume.Models
 {
-    public class Reservation
+    public class Cases
     {
         public string Country { get; set; }
         public string CountryCode { get; set; }
