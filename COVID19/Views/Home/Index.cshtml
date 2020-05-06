@@ -12,39 +12,33 @@
         </div>
     </header>
     <div style="margin: 100px 250px 250px 250px">
-        @foreach (var r in Model)
-        {
-            for (int i = 0; i < Model.Count(); i++) {
-                if(i == Model.Count() - 1) {
-                        <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
-                            <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">CONFIRMADOS</h2>
-                            <div class="bg-dark ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
-                                <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@r.Confirmed</h4>
-                            </div>
-                        </div>
+                <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
+                <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">CONFIRMADOS</h2>
+                <div class="bg-dark ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
+                    <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@Model.ElementAt(Model.Count()-1).Confirmed</h4>
+                </div>
+            </div>
 
-                        <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
-                            <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">ÓBITOS</h2>
-                            <div class="bg-danger ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
-                                <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@r.Deaths</h4>
-                            </div>
-                        </div>
+            <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
+                <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">ÓBITOS</h2>
+                <div class="bg-danger ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
+                    <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@Model.ElementAt(Model.Count()-1).Deaths</h4>
+                </div>
+            </div>
 
-                        <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
-                            <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">DOENTES</h2>
-                            <div class="bg-warning ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
-                                <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@r.Active</h4>
-                            </div>
-                        </div>
+            <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
+                <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">DOENTES</h2>
+                <div class="bg-warning ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
+                    <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@Model.ElementAt(Model.Count()-1).Active</h4>
+                </div>
+            </div>
 
-                        <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
-                            <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">CURADOS</h2>
-                            <div class="bg-success ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
-                                <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@r.Recovered</h4>
-                            </div>
-                        </div>
-                }
-            }
-        }
+            <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
+                <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 50px">CURADOS</h2>
+                <div class="bg-success ml-auto p-2 bd-highlight rounded-pill" style="width: 35%; text-align: center;">
+                    <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@Model.ElementAt(Model.Count()-1).Recovered</h4>
+                </div>
+            </div>
+            <p class="font-weight-bolder text-white" style="text-align: center;">Atualizado em: @Model.ElementAt(Model.Count()-1).Date.Remove(10)</p>
     </div>
 </section>

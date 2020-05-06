@@ -20,12 +20,6 @@ namespace COVID19.Controllers
         {
             _logger = logger;
         }
-
-        // public IActionResult Index()
-        // {
-        //     return View();
-        // }
-
         public async Task<IActionResult> Index()
         {
             List<Cases> Cases = new List<Cases>();
