@@ -9,8 +9,7 @@ namespace COVID19.Data
             : base(options)
         {
         }
-        public DbSet<COVID19.Models.Usuarios> Usuarios { get; set; }
-
+       
        
     }
 }
