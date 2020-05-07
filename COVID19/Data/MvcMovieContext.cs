@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using COVID19.Models;
 
-namespace MvcMovie.Data
+namespace COVID19.Data
 {
     public class MvcMovieContext : DbContext
     {
