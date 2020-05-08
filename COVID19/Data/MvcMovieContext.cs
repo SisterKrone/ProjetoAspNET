@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using COVID19.Models;
 
-namespace MvcMovie.Data
+namespace COVID19.Data
 {
     public class MvcMovieContext : DbContext
     {
@@ -9,8 +9,7 @@ namespace MvcMovie.Data
             : base(options)
         {
         }
-        public DbSet<COVID19.Models.Usuarios> Usuarios { get; set; }
-
+       
        
     }
 }

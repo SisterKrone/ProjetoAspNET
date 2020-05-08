@@ -9,8 +9,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using MvcMovie.Data;
+using COVID19.Models;
 using Microsoft.EntityFrameworkCore;
+using COVID19.Data;
+
 namespace COVID19
 {
     public class Startup
