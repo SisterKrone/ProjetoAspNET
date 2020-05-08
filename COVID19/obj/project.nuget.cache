@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2u5AMxb5k9tzQygjEtU/WpUexZ82x54oj/eJuZVyhWRewLduFH/MS65/5iJCOiLN3rQeA3zgdlMsNdxxAKJ1Q==",
+  "dgSpecHash": "/8YEeF+FIvGGEoj4jB2bqjLXK9qTNsuuHvVTyCNcMpolx9Q1OTAf1uzwyssvdliD/ulWA6iOo+mDVZnnDM4pmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+  "projectFilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

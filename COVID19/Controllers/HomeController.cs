@@ -25,7 +25,7 @@ namespace COVID19.Controllers
             List<Cases> Cases = new List<Cases>();
             using (var httpClient = new HttpClient())
             {
-                using (var response = await httpClient.GetAsync("https://api.covid19api.com/live/country/brazil/status/confirmed"))
+                using (var response = await httpClient.GetAsync("https://api.covid19api.com/total/country/brazil"))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                     Cases = JsonConvert.DeserializeObject<List<Cases>>(apiResponse);
