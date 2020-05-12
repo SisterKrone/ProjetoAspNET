@@ -20,7 +20,7 @@ namespace COVID19.Controllers
         {
             _logger = logger;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Tracker()
         {
             List<Cases> Cases = new List<Cases>();
             using (var httpClient = new HttpClient())
@@ -32,6 +32,11 @@ namespace COVID19.Controllers
                 }
             }
             return View(Cases); 
+        }
+
+        public IActionResult Index()
+        {
+            return View();
         }
 
         public IActionResult Privacy()

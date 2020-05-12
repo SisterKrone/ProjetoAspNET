@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
+    "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {
+    "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
         "projectName": "COVID19",
-        "projectPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\obj\\",
-=======
-    "C:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\COVID19.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\COVID19.csproj",
-        "projectName": "COVID19",
-        "projectPath": "C:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\COVID19.csproj",
-        "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\obj\\",
->>>>>>> 280a3a0c096f87e8c02399a1c88477c658c6a4d1
+        "projectPath": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+        "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
