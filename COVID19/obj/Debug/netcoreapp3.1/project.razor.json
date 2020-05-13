@@ -20521,8 +20521,8 @@
   "RootNamespace": "COVID19",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\tracker.cshtml",
-      "TargetPath": "Views\\Home\\tracker.cshtml",
+      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Tracker.cshtml",
+      "TargetPath": "Views\\Home\\Tracker.cshtml",
       "FileKind": "mvc"
     },
     {

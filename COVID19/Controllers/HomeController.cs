@@ -39,7 +39,7 @@ namespace COVID19.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Prevention()
         {
             return View();
         }
