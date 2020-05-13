@@ -9,17 +9,21 @@ using COVID19.Models;
 using APIConsume.Models;
 using Newtonsoft.Json;
 using System.Net.Http;
+using COVID19.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace COVID19.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        
+        private readonly MvcMovieContext _context;
+        public HomeController(MvcMovieContext  context)
         {
-            _logger = logger;
+        
+            _context = context;
         }
+         
         public async Task<IActionResult> Tracker()
         {
             List<Cases> Cases = new List<Cases>();
@@ -39,9 +43,9 @@ namespace COVID19.Controllers
             return View();
         }
 
-        public IActionResult Prevention()
+        public async Task<IActionResult>  Prevention()
         {
-            return View();
+            return View(await _context.Tips.FirstOrDefaultAsync(m => m.TipsId == 1));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

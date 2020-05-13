@@ -10,6 +10,7 @@ namespace COVID19.Data
         {
         }
        
-       
+       public DbSet<Tips> Tips { get; set; }
+       public DbSet<Comment> Comment { get; set; }
     }
 }
