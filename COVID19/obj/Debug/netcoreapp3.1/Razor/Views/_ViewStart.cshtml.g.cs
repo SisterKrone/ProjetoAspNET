@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
+=======
+#pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -29,7 +37,11 @@ using COVID19;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -47,7 +59,11 @@ using COVID19.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewStart.cshtml"
+=======
+#line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewStart.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewStart.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b

@@ -2,8 +2,11 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj": {}
 =======
+=======
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
     "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
   },
@@ -21,6 +24,9 @@
         "projectPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+=======
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         "projectStyle": "PackageReference",
         "configFilePaths": [

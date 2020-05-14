@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "t0dMuUOsp/gwLuMAuOpepVVkrgbZoCXQlF0Yh03ec/ryZVeV5eiBaNx0UhAAZp3GActC3W46vpZK0YJXOqAQVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
+=======
+  "dgSpecHash": "/8YEeF+FIvGGEoj4jB2bqjLXK9qTNsuuHvVTyCNcMpolx9Q1OTAf1uzwyssvdliD/ulWA6iOo+mDVZnnDM4pmg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
   "dgSpecHash": "/8YEeF+FIvGGEoj4jB2bqjLXK9qTNsuuHvVTyCNcMpolx9Q1OTAf1uzwyssvdliD/ulWA6iOo+mDVZnnDM4pmg==",
   "success": true,

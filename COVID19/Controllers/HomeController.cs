@@ -24,7 +24,10 @@ namespace COVID19.Controllers
             _context = context;
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
          
+=======
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         public async Task<IActionResult> Tracker()
@@ -43,12 +46,18 @@ namespace COVID19.Controllers
 
         public IActionResult Index()
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         {
             return View();
         }
 
         public IActionResult Prevention()
+<<<<<<< HEAD
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+=======
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         {
             return View();

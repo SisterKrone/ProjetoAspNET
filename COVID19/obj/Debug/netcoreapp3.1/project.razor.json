@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "FilePath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
+=======
+  "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
   "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -20526,6 +20530,7 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -20565,10 +20570,24 @@
     {
       "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Index.cshtml",
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+=======
+      "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Tracker.cshtml",
+      "TargetPath": "Views\\Home\\Tracker.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Index.cshtml",
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "FilePath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\Views\\Home\\Tracker.cshtml",
       "TargetPath": "Views\\Home\\Tracker.cshtml",
@@ -20587,6 +20606,8 @@
     {
       "FilePath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
 =======
+=======
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
       "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20598,11 +20619,15 @@
     },
     {
       "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+<<<<<<< HEAD
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+=======
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "FilePath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
@@ -20647,6 +20672,13 @@
       "FileKind": "mvc"
     },
     {
+=======
+      "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
       "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Prevention.cshtml",
       "TargetPath": "Views\\Home\\Prevention.cshtml",
       "FileKind": "mvc"
@@ -20654,6 +20686,9 @@
     {
       "FilePath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+<<<<<<< HEAD
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+=======
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
       "FileKind": "mvc"
     }

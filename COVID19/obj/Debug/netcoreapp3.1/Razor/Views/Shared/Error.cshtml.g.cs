@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
+=======
+#pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -29,7 +37,11 @@ using COVID19;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -47,7 +59,11 @@ using COVID19.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\Error.cshtml"
+=======
+#line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -60,7 +76,11 @@ using COVID19.Models;
             WriteLiteral("\r\n<h1 class=\"text-danger\">Error.</h1>\r\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\r\n\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 9 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\Error.cshtml"
+=======
+#line 9 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 9 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -73,7 +93,11 @@ using COVID19.Models;
             WriteLiteral("    <p>\r\n        <strong>Request ID:</strong> <code>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 12 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\Error.cshtml"
+=======
+#line 12 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 12 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -85,7 +109,11 @@ using COVID19.Models;
             WriteLiteral("</code>\r\n    </p>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 14 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\Error.cshtml"
+=======
+#line 14 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 14 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\Error.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b

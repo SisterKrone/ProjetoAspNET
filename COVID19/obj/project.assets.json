@@ -8556,11 +8556,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
       "projectName": "COVID19",
       "projectPath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
       "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+      "projectName": "COVID19",
+      "projectPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\obj\\",
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
       "projectUniqueName": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
       "projectName": "COVID19",

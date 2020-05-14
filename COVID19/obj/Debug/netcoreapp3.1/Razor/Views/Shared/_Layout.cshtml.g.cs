@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ff944901ae5720092689cbc412c9462ffb6c1708"
+=======
+#pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ff944901ae5720092689cbc412c9462ffb6c1708"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #pragma checksum "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ff944901ae5720092689cbc412c9462ffb6c1708"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 1 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -29,7 +37,11 @@ using COVID19;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 2 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\_ViewImports.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -87,10 +99,17 @@ using COVID19.Models;
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"pt-br\">\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c17088667", async() => {
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\r\n    <title>");
 #nullable restore
 #line 6 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\_Layout.cshtml"
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c17088685", async() => {
+                WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\r\n    <title>");
+#nullable restore
+#line 6 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c17088685", async() => {
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\r\n    <title>");
@@ -104,7 +123,11 @@ using COVID19.Models;
 #nullable disable
                 WriteLiteral(" - COVID19</title>\r\n    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c17089317", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c17089341", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c17089341", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -123,7 +146,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c170810495", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c170810519", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ff944901ae5720092689cbc412c9462ffb6c170810519", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -154,9 +181,15 @@ using COVID19.Models;
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170812378", async() => {
                 WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container \">\r\n                ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170812835", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170812402", async() => {
+                WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container \">\r\n                ");
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170812859", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170812402", async() => {
                 WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container \">\r\n                ");
@@ -191,7 +224,11 @@ using COVID19.Models;
                         <li class=""nav-item"">
                             ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170815147", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170815171", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170815171", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -216,7 +253,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>  \r\n                        <li class=\"nav-item\">\r\n                            ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170816993", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170817017", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170817017", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -242,7 +283,11 @@ using COVID19.Models;
                 WriteLiteral("\r\n                        </li> \r\n                    </ul>\r\n                </div>\r\n            </div>\r\n        </nav>\r\n    </header>\r\n    <div class=\"container\">\r\n        <main role=\"main\" class=\"pb-3\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\_Layout.cshtml"
+=======
+#line 34 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 34 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -253,7 +298,11 @@ using COVID19.Models;
 #nullable disable
                 WriteLiteral("\r\n        </main>\r\n    </div>\r\n\r\n    <footer class=\" bg-white  border-top footer text-muted\">\r\n        <div class=\"container\">\r\n            &copy; 2020 - COVID19 - ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170819370", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170819400", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170819400", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -277,7 +326,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n        </div>\r\n    </footer>\r\n    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170821054", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170821084", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170821084", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -295,7 +348,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170822155", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170822185", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170822185", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -313,7 +370,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170823256", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170823286", async() => {
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff944901ae5720092689cbc412c9462ffb6c170823286", async() => {
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -327,7 +388,11 @@ using COVID19.Models;
                 __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_13);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 45 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\_Layout.cshtml"
+=======
+#line 45 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 45 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
@@ -347,7 +412,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper.AppendVersion = true;
                 WriteLiteral("\r\n    ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 46 "C:\Users\Roberto\Documents\DesenvolWEB\COVID19\Views\Shared\_Layout.cshtml"
+=======
+#line 46 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
 =======
 #line 46 "C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\Views\Shared\_Layout.cshtml"
 >>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
