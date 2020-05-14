@@ -23,13 +23,7 @@ namespace COVID19.Controllers
         
             _context = context;
         }
-<<<<<<< HEAD
-<<<<<<< HEAD
-         
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+
         public async Task<IActionResult> Tracker()
         {
             List<Cases> Cases = new List<Cases>();
@@ -45,24 +39,12 @@ namespace COVID19.Controllers
         }
 
         public IActionResult Index()
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
+
         {
             return View();
         }
 
-        public IActionResult Prevention()
-<<<<<<< HEAD
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
-        {
-            return View();
-        }
-
+       
         public async Task<IActionResult>  Prevention()
         {
             return View(await _context.Tips.FirstOrDefaultAsync(m => m.TipsId == 1));

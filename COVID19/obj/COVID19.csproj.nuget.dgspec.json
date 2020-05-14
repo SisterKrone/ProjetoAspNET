@@ -1,14 +1,7 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj": {}
-=======
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
-    "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
   },
   "projects": {
     "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj": {
@@ -16,21 +9,12 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
         "projectName": "COVID19",
-<<<<<<< HEAD
         "projectPath": "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\COVID19.csproj",
         "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Roberto\\Documents\\DesenvolWEB\\COVID19\\obj\\",
-=======
-        "projectPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marco\\Documents\\projetos\\ProjetoAspNET\\COVID19\\obj\\",
-<<<<<<< HEAD
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
-=======
->>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
