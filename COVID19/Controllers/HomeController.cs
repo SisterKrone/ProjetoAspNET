@@ -23,7 +23,10 @@ namespace COVID19.Controllers
         
             _context = context;
         }
+<<<<<<< HEAD
          
+=======
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         public async Task<IActionResult> Tracker()
         {
             List<Cases> Cases = new List<Cases>();
@@ -39,6 +42,14 @@ namespace COVID19.Controllers
         }
 
         public IActionResult Index()
+<<<<<<< HEAD
+=======
+        {
+            return View();
+        }
+
+        public IActionResult Prevention()
+>>>>>>> 7f392bf63918f2aab0df985468b29c02783ccd8b
         {
             return View();
         }
