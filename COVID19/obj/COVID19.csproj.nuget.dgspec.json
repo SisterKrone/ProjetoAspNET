@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNet\\covid19\\COVID19.csproj": {}
+    "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNet\\covid19\\COVID19.csproj": {
+    "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNet\\covid19\\COVID19.csproj",
+        "projectUniqueName": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
         "projectName": "COVID19",
-        "projectPath": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNet\\covid19\\COVID19.csproj",
+        "projectPath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNet\\covid19\\obj\\",
+        "outputPath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
