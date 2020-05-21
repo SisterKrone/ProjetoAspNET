@@ -1,3 +1,4 @@
+    
 @model IEnumerable<APIConsume.Models.Cases>
 
 @{ Layout = "_Layout"; ViewBag.Title = "Rastreador";}
@@ -12,19 +13,24 @@
     }
 
     .doeRet{
-        background-color: #ffff00;
+        background-color: #e9e337;
     }
 
     .curRet{
-        background-color: #00ff00;
+        background-color: #389742;
     }
 
-    .mortalidadeRetangulo{
-        background-color: #370706;
+    .morRet{
+        background-color: #000000;
     }
     
 </style>
+@{ string date =  @Model.ElementAt(Model.Count()-1).Date;}
+@{ string dateParse = DateTime.Parse(date).ToString("dd-MM-yyyy AS HH:mm:ss");}
 
+@{ float mortes  = @Model.ElementAt(Model.Count()-1).Deaths;}
+@{ float confirmados  = @Model.ElementAt(Model.Count()-1).Confirmed;}
+@{ float percentual  = (mortes/confirmados) * 100;}
 <section class="">
     <header class="d-flex justify-content-center">
         <div class="d-flex justify-content-start">
@@ -34,6 +40,10 @@
             </div>
         </div>
     </header>
+
+   
+
+
     <div style="margin: 6.25em 17.625em 15.625em 17.625em">
                 <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
                 <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left:  2.125em;">CONFIRMADOS</h2>
@@ -62,6 +72,13 @@
                     <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@Model.ElementAt(Model.Count()-1).Recovered</h4>
                 </div>
             </div>
-            <p class="font-weight-bolder text-white" style="text-align: center;">Atualizado em: @Model.ElementAt(Model.Count()-1).Date.Remove(10)</p>
+
+            <div class="bg-light d-flex bd-highlight mb-3 rounded-pill">
+                <h2 class="font-weight-bolder text-primary align-self-center" style="margin-left: 3.125em">LETALIDADE</h2>
+                <div class="morRet ml-auto p-2 bd-highlight rounded-pill" style="width: 13em; text-align: center;">
+                    <h4 class="font-weight-bolder ml-auto p-2 bd-highlight align-self-center text-white" style="font-size: 24pt">@percentual.ToString("N2")%</h4>
+                </div>
+            </div>
+            <p class="font-weight-bolder text-white" style="text-align: center;">Atualizado em: @dateParse</p>
     </div>
 </section>
