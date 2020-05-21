@@ -54,7 +54,7 @@ namespace COVID19.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("TipsId,Title,Content")] Tips tips)
+        public async Task<IActionResult> Create([Bind("TipsId,Title,Content,LinkImage")] Tips tips)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace COVID19.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("TipsId,Title,Content")] Tips tips)
+        public async Task<IActionResult> Edit(int id, [Bind("TipsId,Title,Content,LinkImage")] Tips tips)
         {
             if (id != tips.TipsId)
             {

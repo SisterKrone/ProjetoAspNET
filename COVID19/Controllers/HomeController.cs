@@ -47,7 +47,7 @@ namespace COVID19.Controllers
        
         public async Task<IActionResult>  Prevention()
         {
-            return View(await _context.Tips.FirstOrDefaultAsync(m => m.TipsId == 1));
+            return View(await _context.Tips.ToListAsync());
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
