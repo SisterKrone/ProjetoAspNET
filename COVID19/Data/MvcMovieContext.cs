@@ -12,5 +12,7 @@ namespace COVID19.Data
        
        public DbSet<Tips> Tips { get; set; }
        public DbSet<Comment> Comment { get; set; }
+       public DbSet<COVID19.Models.ToDo> ToDo { get; set; }
+       public DbSet<COVID19.Models.CommentsToDo> CommentsToDo { get; set; }
     }
 }

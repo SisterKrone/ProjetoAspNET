@@ -855,3 +855,14 @@ C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\V
 C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\Tips\Edit.cshtml.g.cs
 C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\Tips\Index.cshtml.g.cs
 C:\Users\Hugo\Desktop\Projetos\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\Home\single.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\Home\single.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Create.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Delete.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Details.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Edit.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Index.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\CommentsToDo\Create.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\CommentsToDo\Delete.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\CommentsToDo\Details.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\CommentsToDo\Edit.cshtml.g.cs
+C:\Users\Roberto\Documents\ProjetoAspNET\COVID19\obj\Debug\netcoreapp3.1\Razor\Views\CommentsToDo\Index.cshtml.g.cs

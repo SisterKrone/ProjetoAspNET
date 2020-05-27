@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\COVID19.csproj",
+  "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\COVID19.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,98 +20521,148 @@
   "RootNamespace": "COVID19",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Tracker.cshtml",
-      "TargetPath": "Views\\Home\\Tracker.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\CommentsToDo\\Details.cshtml",
+      "TargetPath": "Views\\CommentsToDo\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Comment\\Edit.cshtml",
-      "TargetPath": "Views\\Comment\\Edit.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\ToDo\\Create.cshtml",
+      "TargetPath": "Views\\ToDo\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Comment\\Index.cshtml",
-      "TargetPath": "Views\\Comment\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Comment\\Details.cshtml",
-      "TargetPath": "Views\\Comment\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Tips\\Delete.cshtml",
-      "TargetPath": "Views\\Tips\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Tips\\Details.cshtml",
-      "TargetPath": "Views\\Tips\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Comment\\Delete.cshtml",
-      "TargetPath": "Views\\Comment\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Tips\\Edit.cshtml",
-      "TargetPath": "Views\\Tips\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\Prevention.cshtml",
-      "TargetPath": "Views\\Home\\Prevention.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Tips\\Create.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Tips\\Create.cshtml",
       "TargetPath": "Views\\Tips\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Comment\\Create.cshtml",
-      "TargetPath": "Views\\Comment\\Create.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Comment\\Edit.cshtml",
+      "TargetPath": "Views\\Comment\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\CommentsToDo\\Index.cshtml",
+      "TargetPath": "Views\\CommentsToDo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\CommentsToDo\\Edit.cshtml",
+      "TargetPath": "Views\\CommentsToDo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Tips\\Index.cshtml",
-      "TargetPath": "Views\\Tips\\Index.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\ToDo\\Index.cshtml",
+      "TargetPath": "Views\\ToDo\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Home\\single.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Tips\\Delete.cshtml",
+      "TargetPath": "Views\\Tips\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\CommentsToDo\\Delete.cshtml",
+      "TargetPath": "Views\\CommentsToDo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Comment\\Index.cshtml",
+      "TargetPath": "Views\\Comment\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\ToDo\\Delete.cshtml",
+      "TargetPath": "Views\\ToDo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Comment\\Create.cshtml",
+      "TargetPath": "Views\\Comment\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Home\\Tracker.cshtml",
+      "TargetPath": "Views\\Home\\Tracker.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Home\\Prevention.cshtml",
+      "TargetPath": "Views\\Home\\Prevention.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\CommentsToDo\\Create.cshtml",
+      "TargetPath": "Views\\CommentsToDo\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\ToDo\\Edit.cshtml",
+      "TargetPath": "Views\\ToDo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Comment\\Delete.cshtml",
+      "TargetPath": "Views\\Comment\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Tips\\Edit.cshtml",
+      "TargetPath": "Views\\Tips\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Comment\\Details.cshtml",
+      "TargetPath": "Views\\Comment\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\ToDo\\Details.cshtml",
+      "TargetPath": "Views\\ToDo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Tips\\Details.cshtml",
+      "TargetPath": "Views\\Tips\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Home\\single.cshtml",
       "TargetPath": "Views\\Home\\single.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hugo\\Desktop\\Projetos\\ProjetoAspNET\\COVID19\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Roberto\\Documents\\ProjetoAspNET\\COVID19\\Views\\Tips\\Index.cshtml",
+      "TargetPath": "Views\\Tips\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
