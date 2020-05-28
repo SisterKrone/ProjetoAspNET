@@ -44,6 +44,12 @@ namespace COVID19.Controllers
             return View();
         }
 
+        public IActionResult Single()
+
+        {
+            return View();
+        }
+
        
         public async Task<IActionResult>  Prevention()
         {
