@@ -38,10 +38,9 @@ namespace COVID19.Controllers
             return View(Cases); 
         }
 
-        public IActionResult Index()
-
+         public async Task<IActionResult>  Index()
         {
-            return View();
+            return View(await _context.ToDo.ToListAsync());
         }
 
         public IActionResult Single()
